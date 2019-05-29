@@ -8,11 +8,6 @@
     <script type="text/javascript" src="scripts.js"></script>
 </head>
 <body>
-<div id="login">
-    <form action="">
-        Your nick: <input id="nick" autocomplete="off" /><button>Login</button>
-    </form>
-</div>
 <div id="room">
     <div class="numUsers"></div>
     <div class="dc"><button id="dc"></button></div>
